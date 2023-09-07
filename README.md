@@ -1,1 +1,2 @@
-# JavaScript-Coursework
+# Wedding Website
+Web Programming coursework
